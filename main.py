@@ -1,16 +1,16 @@
-# This is a sample Python script.
+x = None
+if x:
+    print('not none')
+else:
+    print('none')
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# if None
+# if 0 and 1
+# if x and x > 100:
+#     print('x bigger than 100')
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm!')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+y = 0
+if y == True:
+    print('not none')
+else:
+    print('none')
